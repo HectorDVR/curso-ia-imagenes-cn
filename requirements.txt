@@ -1,1 +1,2 @@
-numpy 
+ipykernel >=7.3.0
+matplotlib >=3.11.0
